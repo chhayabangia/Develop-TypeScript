@@ -1,29 +1,37 @@
 # Develop-TypeScript
 
-**Description**
+## Description
+
 This project is to demonstrate Tyepscript.
 
-**Table of Contents**
-Installation
-Usage
-Credits
-License
-Walkthrough Video
+## Table of Contents 
 
-**Installation**
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Walkthrough Video] (#Walkthrough Video)
+
+## Installation
+
 Following will be required in this project:
 
-**Cloning of repository**
-Navigating to the provided folder
-- Installing inquirer with 'npm i' in Terminal
+- Cloning of repository
+- Navigating to the provided folder
+- Installing inquirer  and typescript with 'npm i inquirer' in Terminal
 
-**Usage**
-- Follow 'npm run start' command to run 'index.ts' file
+## Usage
 
-**Credits**
-Collaborated with Instructional staff to learn workthrough git repository
+'npm run start' can be used to run 'index.ts'
 
-**License**
-This project is licensed under Unlicensed
+## Credits
 
-**Walkthrough Video**
+Collaborated with Instructional staff related Git repository
+
+## License
+
+This project is licensed under Unlicensed.
+---
+
+## Walkthrough Video
+
