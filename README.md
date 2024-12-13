@@ -10,7 +10,7 @@ This project is to demonstrate Tyepscript.
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [WalkthroughVideo] (#WalkthroughVideo)
+- [WalkthroughVideo]
 
 ## Installation
 
@@ -33,5 +33,5 @@ Collaborated with Instructional staff related Git repository
 This project is licensed under Unlicensed.
 ---
 
-## Walkthrough Video
+## WalkthroughVideo
 
