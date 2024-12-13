@@ -10,7 +10,7 @@ This project is to demonstrate Tyepscript.
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Walkthrough Video] (#Walkthrough Video)
+- [WalkthroughVideo] (#WalkthroughVideo)
 
 ## Installation
 
